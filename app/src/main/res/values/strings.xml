@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Мои рецепты</string>
+    <string name="create_recipe">СОЗДАЙТЕ НОВЫЙ РЕЦЕПТ</string>
+    <string name="helper_mode">РЕЖИМ ПОМОЩНИКА</string>
+    <string name="create_recipe_title">СОЗДАТЬ РЕЦЕПТ</string>
+    <string name="label_name_recipe">Название:</string>
+    <string name="hint_enter_name_recipe">Название рецепта</string>
+    <string name="search_hint">Поиск по ингредиенту</string>
+    <string name="action_search">Действие поиска</string>
+
+
+    <string name="action_mode">Action Mode</string>
+    <string name="delete">Удалить рецепт</string>
+    <string name="edit">Редактировать рецепт</string>
+
+    <string name="title_list_recipes">Список рецептов</string>
+    <string name="empty_list">Нет рецептов в базе данных. Добавьте что-нибудь.</string>
+
+    <string name="label_ingredients">ИНГРЕДИЕНТЫ</string>
+    <string name="hint_add_ingredient">Введите ингредиент</string>
+
+
+    <string name="label_cooking">ПРИГОТОВЛЕНИЕ</string>
+    <string name="hint_add_step_cooking">Введите шаг</string>
+
+    <string name="save_recipe">Сохранить</string>
+    <string name="no_results">Поиск не дал результатов.</string>
+
+    <string name="button_back">Назад</string>
+    <string name="button_next">Далее</string>
+    <string name="delete_field">Delete field</string>
+</resources>

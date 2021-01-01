@@ -1,0 +1,4 @@
+<resources>
+    <dimen name="button_margin">16dp</dimen>
+    <dimen name="item_list_margin_start_and_end">10dp</dimen>
+</resources>
